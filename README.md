@@ -1,48 +1,30 @@
-#DemoWPFReadJsonFromApi
-A WPF application that demonstrates fetching JSON data from a public API and displaying it in a DataGrid.
+# Demo WPF - Display JSON from API
 
-Overview
-This project uses a WPF application to load and display data from the https://jsonplaceholder.typicode.com/posts API. The JSON data is deserialized and presented to the user within a DataGrid, providing a simple and effective UI for viewing data fetched from an external source.
+A WPF application demonstrating how to fetch JSON data from a public API and display it in a DataGrid.
 
-Features
-Fetch Data: Retrieves JSON data from a sample API using HttpClient.
-Display in DataGrid: Renders the fetched data in a WPF DataGrid for easy viewing.
-Async Programming: Uses asynchronous programming to fetch data without blocking the UI thread.
-Project Structure
-MainWindow.xaml.cs: Handles UI logic, including fetching and displaying data in the DataGrid.
-ApiServices.cs: Contains the logic for making the API call and deserializing JSON data.
-User.cs: Represents the model used to store data for each entry fetched from the API.
-Getting Started
-Prerequisites
-.NET Framework or .NET Core installed.
-NuGet packages:
-Newtonsoft.Json for JSON parsing.
-Running the Application
-Clone the repository:
-git clone https://github.com/hieuvuanguday/DemoWPFReadJsonFromApi.git
-cd DemoWPFReadJsonFromApi
-Open the project in Visual Studio.
+## Introduction
 
-Restore NuGet packages if necessary.
+This application retrieves data from the API `https://jsonplaceholder.typicode.com/posts` and displays it in a DataGrid. This project helps you learn how to integrate JSON data from an API into a WPF application, utilizing asynchronous techniques in C#.
 
-Build and run the application.
+## Features
 
-Usage
-When the application starts, it will automatically fetch data from the API.
-The data will populate the DataGrid, where each row corresponds to a JSON post entry.
-Code Explanation
-MainWindow.xaml.cs
-Initializes and loads data into the DataGrid when the window loads.
-Uses an instance of ApiServices to fetch the JSON data.
-ApiServices.cs
-Handles HTTP requests to the JSONPlaceholder API.
-Deserializes the JSON response into a list of User objects.
-User.cs
-A data model that maps to each post object in the JSON response.
-Properties include userId, id, title, and body.
-Troubleshooting
-If the application cannot fetch data, ensure you have a stable internet connection.
-Check for updates or compatibility issues with Newtonsoft.Json if serialization errors occur.
-License
-This project is licensed under the MIT License.
+- **Fetch Data from API**: Sends an HTTP request to fetch JSON data.
+- **Display Data**: Displays the data in a DataGrid for easy reading and management.
+- **Asynchronous Handling**: Uses `async` and `await` to ensure the UI remains responsive.
 
+## Project Structure
+
+- **MainWindow.xaml.cs**: Handles the UI logic, including loading and displaying data in the DataGrid when the application starts.
+- **ApiServices.cs**: Contains the function to fetch data from the API and convert JSON data into C# objects.
+- **User.cs**: Data model to store the information of each post (userId, id, title, body).
+
+## Setup Instructions
+
+1. **Clone** the repository:
+   ```bash
+   git clone https://github.com/hieuvuanguday/DemoWPFReadJsonFromApi.git
+   cd DemoWPFReadJsonFromApi
+2. **Setup Instructions**
+3. **Open the project in Visual Studio.**
+4. **Install necessary packages from NuGet** (such as **Newtonsoft.Json** for JSON handling).
+5. **Run the application.**
