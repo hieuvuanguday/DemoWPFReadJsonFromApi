@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\12-CN7\\PRN221-FALL24\\ReadJsonApi\\WPFReadJsonApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD147C9-9534-40F0-859C-02E58085C79F}|ReadJsonTool\\ReadJsonTool.csproj|d:\\12-cn7\\prn221-fall24\\readjsonapi\\wpfreadjsonapi\\readjsontool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DD147C9-9534-40F0-859C-02E58085C79F}|ReadJsonTool\\ReadJsonTool.csproj|solutionrelative:readjsontool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD147C9-9534-40F0-859C-02E58085C79F}|ReadJsonTool\\ReadJsonTool.csproj|d:\\12-cn7\\prn221-fall24\\readjsonapi\\wpfreadjsonapi\\readjsontool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD147C9-9534-40F0-859C-02E58085C79F}|ReadJsonTool\\ReadJsonTool.csproj|solutionrelative:readjsontool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD147C9-9534-40F0-859C-02E58085C79F}|ReadJsonTool\\ReadJsonTool.csproj|d:\\12-cn7\\prn221-fall24\\readjsonapi\\wpfreadjsonapi\\readjsontool\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD147C9-9534-40F0-859C-02E58085C79F}|ReadJsonTool\\ReadJsonTool.csproj|solutionrelative:readjsontool\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD147C9-9534-40F0-859C-02E58085C79F}|ReadJsonTool\\ReadJsonTool.csproj|d:\\12-cn7\\prn221-fall24\\readjsonapi\\wpfreadjsonapi\\readjsontool\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD147C9-9534-40F0-859C-02E58085C79F}|ReadJsonTool\\ReadJsonTool.csproj|solutionrelative:readjsontool\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiServices.cs",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\ReadJsonApi\\WPFReadJsonApi\\ReadJsonTool\\ApiServices.cs",
+              "RelativeDocumentMoniker": "ReadJsonTool\\ApiServices.cs",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\ReadJsonApi\\WPFReadJsonApi\\ReadJsonTool\\ApiServices.cs",
+              "RelativeToolTip": "ReadJsonTool\\ApiServices.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:00:32.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\ReadJsonApi\\WPFReadJsonApi\\ReadJsonTool\\User.cs",
+              "RelativeDocumentMoniker": "ReadJsonTool\\User.cs",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\ReadJsonApi\\WPFReadJsonApi\\ReadJsonTool\\User.cs",
+              "RelativeToolTip": "ReadJsonTool\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:59:41.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\ReadJsonApi\\WPFReadJsonApi\\ReadJsonTool\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ReadJsonTool\\MainWindow.xaml",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\ReadJsonApi\\WPFReadJsonApi\\ReadJsonTool\\MainWindow.xaml",
+              "RelativeToolTip": "ReadJsonTool\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T08:53:25.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\ReadJsonApi\\WPFReadJsonApi\\ReadJsonTool\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ReadJsonTool\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\ReadJsonApi\\WPFReadJsonApi\\ReadJsonTool\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ReadJsonTool\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:53:25.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

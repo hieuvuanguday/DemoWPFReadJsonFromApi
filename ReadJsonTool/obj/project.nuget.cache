@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9zqBU0wvXwc=",
+  "success": true,
+  "projectFilePath": "D:\\12-CN7\\PRN221-FALL24\\ReadJsonApi\\WPFReadJsonApi\\ReadJsonTool\\ReadJsonTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
